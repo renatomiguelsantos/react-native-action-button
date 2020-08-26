@@ -1,4 +1,4 @@
-# react-native-action-button
+# @logvinme/react-native-action-button
 customizable multi-action-button component for react-native
 
 ![react-native-action-button demo](http://i.giphy.com/26BkMir9IcAhqe4EM.gif)
