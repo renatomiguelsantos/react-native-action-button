@@ -1,5 +1,5 @@
 {
-  "name": "react-native-action-button",
+  "name": "@logvinme/react-native-action-button",
   "version": "2.9.0",
   "description": "customizable multi-action-button component for react-native",
   "main": "ActionButton.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mastermoo/react-native-action-button.git"
+    "url": "git+https://github.com/dlogvin/react-native-action-button.git"
   },
   "keywords": [
     "react-native",
@@ -22,10 +22,13 @@
   "author": "Yousef Kamawall",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mastermoo/react-native-action-button/issues"
+    "url": "https://github.com/dlogvin/react-native-action-button/issues"
   },
-  "homepage": "https://github.com/mastermoo/react-native-action-button",
+  "homepage": "https://github.com/dlogvin/react-native-action-button",
   "dependencies": {
     "prop-types": "^15.5.10"
+  },
+  "directories": {
+    "example": "example"
   }
 }
