@@ -1,5 +1,5 @@
 # @logvinme/react-native-action-button
-customizable multi-action-button component for react-native
+customizable multi-action-button component for react-native (I'm going to be maintaining this package since the main one is no longer being maintained).
 
 ![react-native-action-button demo](http://i.giphy.com/26BkMir9IcAhqe4EM.gif)
 ![react-native-action-button demo](http://i.giphy.com/xTcnTeW9BBXh8wMhLq.gif)
