@@ -11,7 +11,7 @@ customizable multi-action-button component for react-native
 
 ### Installation
 ```bash
-npm i react-native-action-button --save
+npm i @logvinme/react-native-action-button --save
 ```
 #### If you have the latest version skip this (no need to link).
 Link `react-native-vector-icons` native dependencies to your project with:
@@ -28,7 +28,7 @@ to link all libraries with native dependencies in your project.
 
 First, require it from your app's JavaScript files with:
 ```bash
-import ActionButton from 'react-native-action-button';
+import ActionButton from '@logvinme/react-native-action-button';
 ```
 
 ##### ActionButton
@@ -44,7 +44,7 @@ _The following Basic example can be found in `example/Basic`._
 ```js
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
-import ActionButton from 'react-native-action-button';
+import ActionButton from '@logvinme/react-native-action-button';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 

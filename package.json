@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/dlogvin/react-native-action-button",
   "dependencies": {
+    "my-package": "0.0.0",
     "prop-types": "^15.5.10"
   },
   "directories": {
